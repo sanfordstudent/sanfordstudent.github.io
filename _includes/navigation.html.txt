@@ -1,0 +1,4 @@
+<nav>
+  <a href="/">Home</a>
+  <a href="/mywork.html">My Work</a>
+</nav>
