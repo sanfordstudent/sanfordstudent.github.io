@@ -19,18 +19,21 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sanford R. Student
+author:
+    name: Sanford (Sandy) Student
+    email: "srstu@udel.edu"
 email: srstu@udel.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Professional website of Sanford R. Student, University of Delaware
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sanfordstudent.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sandy_student
-github_username:  sanfordstudent
+url: "https://sanfordstudent.github.io" 
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +54,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  skin: classic
+  hide_site_feed_link: true
+  social_links:
+    - title: Twitter
+      icon: x-twitter
+      url: "https://x.com/sandy_student/"
+    - title: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/srstudent.bsky.social"
+    - title: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=SCEvx0IAAAAJ&hl=en&oi=ao"
+    - title: ORCID
+      icon: orcid
+      url: "https://orcid.org/0000-0001-7419-2437"
