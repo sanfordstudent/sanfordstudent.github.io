@@ -18,7 +18,7 @@ Below, you will find links to peer-reviewed journal articles, preprints, and oth
 
 ## Methodological Papers
 
-* **Student, S.R.** & Read, W. (in press). Applying Bayesian checks of cancellation axioms for interval scaling in limited samples. *Behavior Research Methods*. [Preprint](https://osf.io/preprints/psyarxiv/7bzam_v2) \| [Supplement](https://osf.io/8vqg5/)
+* **Student, S.R.** & Read, W. (2025). Applying Bayesian checks of cancellation axioms for interval scaling in limited samples. *Behavior Research Methods, 57*. [https://doi.org/10.3758/s13428-025-02844-7](https://doi.org/10.3758/s13428-025-02844-7) \| [Supplement](https://osf.io/8vqg5/)
 * **Student, S.R.** & McCormick, E.M. (2025). Digital module 38: Differential item functioning by multiple variables using moderated nonlinear factor analysis. *Educational Measurement: Issues and Practice, 44*(2), 39-41. [https://doi.org/10.1111/emip.12669](https://doi.org/10.1111/emip.12669) \| [Free instructional module](https://www.ncme.org/itemsportal/digital-modules/dm38)
 * **Student, S. R.**, Briggs, D. C., & Davis, L. (2025). Growth across grades and common item grade alignment in vertical scaling using the Rasch model. *Educational Measurement: Issues and Practice, 44*(1), 84–95. [https://doi.org/10.1111/emip.12639](https://doi.org/10.1111/emip.12639)
 * Briggs, D.C., McClure, K., **Student, S.R.**, Wellberg, S., Minchen, N., Cox, O., Whitfield, E., Buchbinder, N. & L. Davis (2025). Visualizing and reporting content-referenced growth on a learning progression. *Educational Assessment*. Advance online publication. [https://doi.org/10.1080/10627197.2025.2503288](https://doi.org/10.1080/10627197.2025.2503288)
