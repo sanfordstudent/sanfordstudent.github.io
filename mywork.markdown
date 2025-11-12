@@ -2,6 +2,7 @@
 layout: base
 title: My Work
 permalink: /mywork/
+order: 2
 ---
 
 # My Work
@@ -10,7 +11,6 @@ Below, you will find links to peer-reviewed journal articles, preprints, and oth
 
 ## Preprints
 * **Student, S.R.** Causal parameter moderation: Applying moderated nonlinear factor analysis to causal inference with latent outcomes. [https://osf.io/preprints/psyarxiv/bkafj_v3](https://osf.io/preprints/psyarxiv/bkafj_v3) \| [Supplement with tutorial](https://osf.io/egdha/)
-* **Student, S.R.** Vertical scaling with moderated nonlinear factor analysis. [https://osf.io/preprints/psyarxiv/tqg39_v4](https://osf.io/preprints/psyarxiv/tqg39_v4)
 * Shores. K. and **Student, S.R.** Making the grade: Accounting for course selection in high school transcripts with item response theory. [https://edworkingpapers.com/ai24-1109](https://edworkingpapers.com/ai24-1109)
 * **Student, S.R.**, Gilbert, J., Eze, J., Young, W.S. and B. Domingue. Instrumental variables regression with latent variables: Accounting for treatment-based differential item functioning as item-level heterogeneity or item parameter moderation. [https://osf.io/preprints/psyarxiv/sudgt_v1](https://osf.io/preprints/psyarxiv/sudgt_v1)
 
@@ -18,18 +18,19 @@ Below, you will find links to peer-reviewed journal articles, preprints, and oth
 
 ## Methodological Papers
 
+* **Student, S.R.** (2025). Vertical scaling with moderated nonlinear factor analysis. *Journal of Educational Measurement*. [https://doi.org/10.1111/jedm.70019](https://doi.org/10.1111/jedm.70019) \| [Preprint of accepted manuscript](https://osf.io/preprints/psyarxiv/tqg39_v4)
 * **Student, S.R.** & Read, W. (2025). Applying Bayesian checks of cancellation axioms for interval scaling in limited samples. *Behavior Research Methods, 57*. [https://doi.org/10.3758/s13428-025-02844-7](https://doi.org/10.3758/s13428-025-02844-7) \| [Supplement](https://osf.io/8vqg5/)
 * **Student, S.R.** & McCormick, E.M. (2025). Digital module 38: Differential item functioning by multiple variables using moderated nonlinear factor analysis. *Educational Measurement: Issues and Practice, 44*(2), 39-41. [https://doi.org/10.1111/emip.12669](https://doi.org/10.1111/emip.12669) \| [Free instructional module](https://www.ncme.org/itemsportal/digital-modules/dm38)
 * **Student, S. R.**, Briggs, D. C., & Davis, L. (2025). Growth across grades and common item grade alignment in vertical scaling using the Rasch model. *Educational Measurement: Issues and Practice, 44*(1), 84–95. [https://doi.org/10.1111/emip.12639](https://doi.org/10.1111/emip.12639)
 * Briggs, D.C., McClure, K., **Student, S.R.**, Wellberg, S., Minchen, N., Cox, O., Whitfield, E., Buchbinder, N. & L. Davis (2025). Visualizing and reporting content-referenced growth on a learning progression. *Educational Assessment*. Advance online publication. [https://doi.org/10.1080/10627197.2025.2503288](https://doi.org/10.1080/10627197.2025.2503288)
-* **Student, S.R.** (2024). Growth on 2019 state achievement tests: Empirical benchmarks and the role of scale choice. *Journal of Research on Educational Effectiveness*. Advance online publication. [https://doi.org/10.1080/19345747.2024.2360534](https://doi.org/10.1080/19345747.2024.2360534)
+* **Student, S.R.** (2025). Growth on 2019 state achievement tests: Empirical benchmarks and the role of scale choice. *Journal of Research on Educational Effectiveness, 18* (4), 827-853. [https://doi.org/10.1080/19345747.2024.2360534](https://doi.org/10.1080/19345747.2024.2360534)
 * **Student, S.R.** & Gong, B. (2022). Supporting the interpretive validity of student-level claims in science assessment with tiered claim structures. *Educational Measurement: Issues and Practice, 41*(4), 68-78. [https://doi.org/10.1111/emip.12523](https://doi.org/10.1111/emip.12523)
 * **Student, S.R.** (2022). Vertical scales, deceleration, and empirical benchmarks for growth. *Educational Researcher, 51*(8), 536-543. [https://doi.org/10.3102/0013189X221105873](https://doi.org/10.3102/0013189X221105873)
 * **Student, S.R.** (2022). Appraising traditional and purpose-built person fit statistics’ power to detect cheating. *Chinese/English Journal of Educational Measurement and Evaluation, 3*(1). [https://doi.org/10.59863/GYPV1534](https://doi.org/10.59863/GYPV1534)
 
 
 ## Substantive Papers
-* Saylor, A., **Student, S.R.** and A. Lanzi (in press). Recognition vs. ability to use external aids: An exploratory item response analysis of the Functional External Memory Aid Tool (FEMAT). *Journal of Speech Language and Hearing Research.*
+* Saylor, A., **Student, S.R.** and A. Lanzi (2025). Recognition vs. ability to use external aids: An exploratory item response analysis of the Functional External Memory Aid Tool (FEMAT). *Journal of Speech Language and Hearing Research.* Advance online publication. [https://doi.org/10.1044/2025_JSLHR-25-00019](https://doi.org/10.1044/2025_JSLHR-25-00019)
 * Lee, H.R., **Student, S.R.**, Rutherford, T., Collie, R.J., and A.C. Bart. (2025). Exploring domain-specific and course-specific latent profiles of motivation in computer science. *Learning and Individual Differences, 120*. [https://doi.org/10.1016/j.lindif.2025.102686](https://doi.org/10.1016/j.lindif.2025.102686) \| [Supplement](https://osf.io/236nm/)
 * Ramirez, A.G., Patt, R., Delgado, A., Levine, D., **Student, S.R.**, Hirsh-Pasek, K., de Villiers, J., Iglesias, A. and R.M. Golinkoff (2025). A new screener predicts toddlers’ language development from age 2 to 3: The QUILS:TOD. *Infant Behavior and Development, 78*. [https://doi.org/10.1016/j.infbeh.2024.102024](https://doi.org/10.1016/j.infbeh.2024.102024)
 * Deverel-Rico, C., Furtak, E.M., **Student, S.R.**, and A. Burkhardt (2024). How can crosscutting concepts organize formative assessments across science classrooms? Results of a video study. *Education Sciences, 14*(10). [https://doi.org/10.3390/educsci14101060](https://doi.org/10.3390/educsci14101060)
