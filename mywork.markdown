@@ -10,6 +10,8 @@ order: 2
 Below, you will find links to peer-reviewed journal articles, preprints, and other research products. [My full CV]({{ site.baseurl }}/assets/pdfs/sscv.pdf) includes further details on all aspects of my professional biography.
 
 ## Preprints
+* **Student, S.R.** Using nonbinding experiments to estimate causal effects of behaviors using instrumental variables regression: A tutorial. [https://osf.io/preprints/psyarxiv/q8me9_v1](https://osf.io/preprints/psyarxiv/q8me9_v1) \| [Supplement with replication script](https://osf.io/2phm9/overview) 
+
 * **Student, S.R.** Causal parameter moderation: Applying moderated nonlinear factor analysis to causal inference with latent outcomes. [https://osf.io/preprints/psyarxiv/bkafj_v3](https://osf.io/preprints/psyarxiv/bkafj_v3) \| [Supplement with tutorial](https://osf.io/egdha/)
 * Shores. K. and **Student, S.R.** Making the grade: Accounting for course selection in high school transcripts with item response theory. [https://edworkingpapers.com/ai24-1109](https://edworkingpapers.com/ai24-1109)
 * **Student, S.R.**, Gilbert, J., Eze, J., Young, W.S. and B. Domingue. Instrumental variables regression with latent variables: Accounting for treatment-based differential item functioning as item-level heterogeneity or item parameter moderation. [https://osf.io/preprints/psyarxiv/sudgt_v1](https://osf.io/preprints/psyarxiv/sudgt_v1)
@@ -18,12 +20,12 @@ Below, you will find links to peer-reviewed journal articles, preprints, and oth
 
 ## Methodological Papers
 
-* **Student, S.R.** (2025). Vertical scaling with moderated nonlinear factor analysis. *Journal of Educational Measurement*. [https://doi.org/10.1111/jedm.70019](https://doi.org/10.1111/jedm.70019) \| [Preprint of accepted manuscript](https://osf.io/preprints/psyarxiv/tqg39_v4)
+* **Student, S.R.** (2025). Vertical scaling with moderated nonlinear factor analysis. *Journal of Educational Measurement, , 62*(4), 929-958. [https://doi.org/10.1111/jedm.70019](https://doi.org/10.1111/jedm.70019) \| [Preprint of accepted manuscript](https://osf.io/preprints/psyarxiv/tqg39_v4)
 * **Student, S.R.** & Read, W. (2025). Applying Bayesian checks of cancellation axioms for interval scaling in limited samples. *Behavior Research Methods, 57*. [https://doi.org/10.3758/s13428-025-02844-7](https://doi.org/10.3758/s13428-025-02844-7) \| [Supplement](https://osf.io/8vqg5/)
 * **Student, S.R.** & McCormick, E.M. (2025). Digital module 38: Differential item functioning by multiple variables using moderated nonlinear factor analysis. *Educational Measurement: Issues and Practice, 44*(2), 39-41. [https://doi.org/10.1111/emip.12669](https://doi.org/10.1111/emip.12669) \| [Free instructional module](https://www.ncme.org/itemsportal/digital-modules/dm38)
 * **Student, S. R.**, Briggs, D. C., & Davis, L. (2025). Growth across grades and common item grade alignment in vertical scaling using the Rasch model. *Educational Measurement: Issues and Practice, 44*(1), 84–95. [https://doi.org/10.1111/emip.12639](https://doi.org/10.1111/emip.12639)
 * Briggs, D.C., McClure, K., **Student, S.R.**, Wellberg, S., Minchen, N., Cox, O., Whitfield, E., Buchbinder, N. & L. Davis (2025). Visualizing and reporting content-referenced growth on a learning progression. *Educational Assessment*. Advance online publication. [https://doi.org/10.1080/10627197.2025.2503288](https://doi.org/10.1080/10627197.2025.2503288)
-* **Student, S.R.** (2025). Growth on 2019 state achievement tests: Empirical benchmarks and the role of scale choice. *Journal of Research on Educational Effectiveness, 18* (4), 827-853. [https://doi.org/10.1080/19345747.2024.2360534](https://doi.org/10.1080/19345747.2024.2360534)
+* **Student, S.R.** (2025). Growth on 2019 state achievement tests: Empirical benchmarks and the role of scale choice. *Journal of Research on Educational Effectiveness, 18*(4), 827-853. [https://doi.org/10.1080/19345747.2024.2360534](https://doi.org/10.1080/19345747.2024.2360534)
 * **Student, S.R.** & Gong, B. (2022). Supporting the interpretive validity of student-level claims in science assessment with tiered claim structures. *Educational Measurement: Issues and Practice, 41*(4), 68-78. [https://doi.org/10.1111/emip.12523](https://doi.org/10.1111/emip.12523)
 * **Student, S.R.** (2022). Vertical scales, deceleration, and empirical benchmarks for growth. *Educational Researcher, 51*(8), 536-543. [https://doi.org/10.3102/0013189X221105873](https://doi.org/10.3102/0013189X221105873)
 * **Student, S.R.** (2022). Appraising traditional and purpose-built person fit statistics’ power to detect cheating. *Chinese/English Journal of Educational Measurement and Evaluation, 3*(1). [https://doi.org/10.59863/GYPV1534](https://doi.org/10.59863/GYPV1534)
