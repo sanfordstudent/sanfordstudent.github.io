@@ -11,8 +11,6 @@ Below, you will find links to peer-reviewed journal articles, preprints, and oth
 
 ## Preprints
 * **Student, S.R.** Using nonbinding experiments to estimate causal effects of behaviors using instrumental variables regression: A tutorial. [https://osf.io/preprints/psyarxiv/q8me9_v1](https://osf.io/preprints/psyarxiv/q8me9_v1) \| [Supplement with replication script](https://osf.io/2phm9/overview) 
-
-* **Student, S.R.** Causal parameter moderation: Applying moderated nonlinear factor analysis to causal inference with latent outcomes. [https://osf.io/preprints/psyarxiv/bkafj_v3](https://osf.io/preprints/psyarxiv/bkafj_v3) \| [Supplement with tutorial](https://osf.io/egdha/)
 * Shores. K. and **Student, S.R.** Making the grade: Accounting for course selection in high school transcripts with item response theory. [https://edworkingpapers.com/ai24-1109](https://edworkingpapers.com/ai24-1109)
 * **Student, S.R.**, Gilbert, J., Eze, J., Young, W.S. and B. Domingue. Instrumental variables regression with latent variables: Accounting for treatment-based differential item functioning as item-level heterogeneity or item parameter moderation. [https://osf.io/preprints/psyarxiv/sudgt_v1](https://osf.io/preprints/psyarxiv/sudgt_v1)
 
@@ -20,6 +18,8 @@ Below, you will find links to peer-reviewed journal articles, preprints, and oth
 
 ## Methodological Papers
 
+
+* **Student, S.R.** (in press). Causal parameter moderation: Applying moderated nonlinear factor analysis to causal inference with latent outcomes. *Journal of Educational and Behavioral Statistics*. [Preprint](https://osf.io/preprints/psyarxiv/bkafj_v3) \| [Supplement with tutorial](https://osf.io/egdha/)
 * **Student, S.R.** (2025). Vertical scaling with moderated nonlinear factor analysis. *Journal of Educational Measurement, , 62*(4), 929-958. [https://doi.org/10.1111/jedm.70019](https://doi.org/10.1111/jedm.70019) \| [Preprint of accepted manuscript](https://osf.io/preprints/psyarxiv/tqg39_v4)
 * **Student, S.R.** & Read, W. (2025). Applying Bayesian checks of cancellation axioms for interval scaling in limited samples. *Behavior Research Methods, 57*. [https://doi.org/10.3758/s13428-025-02844-7](https://doi.org/10.3758/s13428-025-02844-7) \| [Supplement](https://osf.io/8vqg5/)
 * **Student, S.R.** & McCormick, E.M. (2025). Digital module 38: Differential item functioning by multiple variables using moderated nonlinear factor analysis. *Educational Measurement: Issues and Practice, 44*(2), 39-41. [https://doi.org/10.1111/emip.12669](https://doi.org/10.1111/emip.12669) \| [Free instructional module](https://www.ncme.org/itemsportal/digital-modules/dm38)
