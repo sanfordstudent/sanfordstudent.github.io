@@ -12,7 +12,7 @@ Below, you will find links to peer-reviewed journal articles, preprints, and oth
 ## Preprints
 * **Student, S.R.** Using nonbinding experiments to estimate causal effects of behaviors using instrumental variables regression: A tutorial. [https://osf.io/preprints/psyarxiv/q8me9_v1](https://osf.io/preprints/psyarxiv/q8me9_v1) \| [Supplement with replication script](https://osf.io/2phm9/overview) 
 * Shores. K. and **Student, S.R.** Making the grade: Accounting for course selection in high school transcripts with item response theory. [https://edworkingpapers.com/ai24-1109](https://edworkingpapers.com/ai24-1109)
-* **Student, S.R.**, Gilbert, J., Eze, J., Young, W.S. and B. Domingue. Instrumental variables regression with latent variables: Accounting for treatment-based differential item functioning as item-level heterogeneity or item parameter moderation. [https://osf.io/preprints/psyarxiv/sudgt_v1](https://osf.io/preprints/psyarxiv/sudgt_v1)
+* **Student, S.R.**, Gilbert, J., Eze, J., Young, W.S. and B. Domingue. Item level heterogeneous treatment effects in instrumental variables regression. [https://osf.io/preprints/psyarxiv/sudgt_v2](https://osf.io/preprints/psyarxiv/sudgt_v2)
 
 
 
@@ -39,7 +39,7 @@ Below, you will find links to peer-reviewed journal articles, preprints, and oth
 
 
 ## Professional Reports
-* Ihlenfeldt, S.D., **Student, S.R.**, Lyons, S., Dadey, N., Forte, E., & P. Winter (2024). Enhancing Peer Review: Supporting Innovation in State Assessment Systems. Lyons Assessment Consulting and Foresight Law and Policy. [https://lyonsassessmentconsulting.com/resource/recommendations-for-supporting-innovative-state-assessment-systems/](https://lyonsassessmentconsulting.com/resource/recommendations-for-supporting-innovative-state-assessment-systems/) 
+* Ihlenfeldt, S.D., **Student, S.R.**, Lyons, S., Dadey, N., Forte, E., & P. Winter (2024). Enhancing peer review: Supporting innovation in state assessment systems. Lyons Assessment Consulting and Foresight Law and Policy. [https://lyonsassessmentconsulting.com/resource/recommendations-for-supporting-innovative-state-assessment-systems/](https://lyonsassessmentconsulting.com/resource/recommendations-for-supporting-innovative-state-assessment-systems/) 
 * Briggs. D.C., Cox, O., **Student, S.R.** & E. Whitfield (2023). Teacher perspectives on the content-referenced growth reporting prototype: Findings from interviews. Center for Assessment, Design, Research and Evaluation (CADRE). [https://www.colorado.edu/cadre/2024/02/20/teacher-perspectives-content-referenced-growth-reporting-prototype-findings-interviews](https://www.colorado.edu/cadre/2024/02/20/teacher-perspectives-content-referenced-growth-reporting-prototype-findings-interviews)
 * Lyons, S. & **Student, S.R.** (2023). A framework for reimagining school accountability. Lyons Assessment Consulting. [https://www.lyonsassessmentconsulting.com/assets/files/Lyons-Student_AFrameworkforReimaginingSchoolAccountability.pdf](https://www.lyonsassessmentconsulting.com/assets/files/Lyons-Student_AFrameworkforReimaginingSchoolAccountability.pdf)
 * Wellberg, S., Briggs, D. C., & **Student, S.R.** (2023). Big ideas in the understanding of fractions: A learning progression. Center for Assessment, Design, Research and Evaluation (CADRE). [https://www.colorado.edu/cadre/2023/03/22/big-ideas-understanding-fractions-learning-progression
