@@ -10,16 +10,16 @@ order: 2
 Below, you will find links to peer-reviewed journal articles, preprints, and other research products. [My full CV]({{ site.baseurl }}/assets/pdfs/sscv.pdf) includes further details on all aspects of my professional biography.
 
 ## Preprints
-* **Student, S.R.** Using nonbinding experiments to estimate causal effects of behaviors using instrumental variables regression: A tutorial. [https://osf.io/preprints/psyarxiv/q8me9_v1](https://osf.io/preprints/psyarxiv/q8me9_v1) \| [Supplement with replication script](https://osf.io/2phm9/overview) 
+* **Student, S.R.** Using nonbinding experiments to estimate causal effects of behaviors using instrumental variables regression: A tutorial. [https://osf.io/preprints/psyarxiv/q8me9_v2](https://osf.io/preprints/psyarxiv/q8me9_v2) \| [Supplement with replication script](https://osf.io/2phm9/overview) 
 * Shores. K. and **Student, S.R.** Making the grade: Accounting for course selection in high school transcripts with item response theory. [https://edworkingpapers.com/ai24-1109](https://edworkingpapers.com/ai24-1109)
-* **Student, S.R.**, Gilbert, J., Eze, J., Young, W.S. and B. Domingue. Item level heterogeneous treatment effects in instrumental variables regression. [https://osf.io/preprints/psyarxiv/sudgt_v2](https://osf.io/preprints/psyarxiv/sudgt_v2)
+* **Student, S.R.**, Gilbert, J., Eze, J., Young, W.S. and B. Domingue. Item level heterogeneous treatment effects in instrumental variables regression. [https://osf.io/preprints/psyarxiv/sudgt_v3](https://osf.io/preprints/psyarxiv/sudgt_v3)
 
 
 
 ## Methodological Papers
 
 
-* **Student, S.R.** (in press). Causal parameter moderation: Applying moderated nonlinear factor analysis to causal inference with latent outcomes. *Journal of Educational and Behavioral Statistics*. [Preprint](https://osf.io/preprints/psyarxiv/bkafj_v3) \| [Supplement with tutorial](https://osf.io/egdha/)
+* **Student, S.R.** (2026). Causal parameter moderation: Applying moderated nonlinear factor analysis to causal inference with latent outcomes. *Journal of Educational and Behavioral Statistics*. Advance online publication. [https://doi.org/10.3102/10769986251414869](https://doi.org/10.3102/10769986251414869) \| [Preprint](https://osf.io/preprints/psyarxiv/bkafj_v3) \| [Supplement with tutorial](https://osf.io/egdha/)
 * **Student, S.R.** (2025). Vertical scaling with moderated nonlinear factor analysis. *Journal of Educational Measurement, , 62*(4), 929-958. [https://doi.org/10.1111/jedm.70019](https://doi.org/10.1111/jedm.70019) \| [Preprint of accepted manuscript](https://osf.io/preprints/psyarxiv/tqg39_v4)
 * **Student, S.R.** & Read, W. (2025). Applying Bayesian checks of cancellation axioms for interval scaling in limited samples. *Behavior Research Methods, 57*. [https://doi.org/10.3758/s13428-025-02844-7](https://doi.org/10.3758/s13428-025-02844-7) \| [Supplement](https://osf.io/8vqg5/)
 * **Student, S.R.** & McCormick, E.M. (2025). Digital module 38: Differential item functioning by multiple variables using moderated nonlinear factor analysis. *Educational Measurement: Issues and Practice, 44*(2), 39-41. [https://doi.org/10.1111/emip.12669](https://doi.org/10.1111/emip.12669) \| [Free instructional module](https://www.ncme.org/itemsportal/digital-modules/dm38)
@@ -32,7 +32,7 @@ Below, you will find links to peer-reviewed journal articles, preprints, and oth
 
 
 ## Substantive Papers
-* Saylor, A., **Student, S.R.** and A. Lanzi (2025). Recognition vs. ability to use external aids: An exploratory item response analysis of the Functional External Memory Aid Tool (FEMAT). *Journal of Speech Language and Hearing Research.* Advance online publication. [https://doi.org/10.1044/2025_JSLHR-25-00019](https://doi.org/10.1044/2025_JSLHR-25-00019)
+* Saylor, A., **Student, S.R.** and A. Lanzi (2025). Recognition vs. ability to use external aids: An exploratory item response analysis of the Functional External Memory Aid Tool (FEMAT). *Journal of Speech Language and Hearing Research, 68*(9), 4358-4375. [https://doi.org/10.1044/2025_JSLHR-25-00019](https://doi.org/10.1044/2025_JSLHR-25-00019)
 * Lee, H.R., **Student, S.R.**, Rutherford, T., Collie, R.J., and A.C. Bart. (2025). Exploring domain-specific and course-specific latent profiles of motivation in computer science. *Learning and Individual Differences, 120*. [https://doi.org/10.1016/j.lindif.2025.102686](https://doi.org/10.1016/j.lindif.2025.102686) \| [Supplement](https://osf.io/236nm/)
 * Ramirez, A.G., Patt, R., Delgado, A., Levine, D., **Student, S.R.**, Hirsh-Pasek, K., de Villiers, J., Iglesias, A. and R.M. Golinkoff (2025). A new screener predicts toddlers’ language development from age 2 to 3: The QUILS:TOD. *Infant Behavior and Development, 78*. [https://doi.org/10.1016/j.infbeh.2024.102024](https://doi.org/10.1016/j.infbeh.2024.102024)
 * Deverel-Rico, C., Furtak, E.M., **Student, S.R.**, and A. Burkhardt (2024). How can crosscutting concepts organize formative assessments across science classrooms? Results of a video study. *Education Sciences, 14*(10). [https://doi.org/10.3390/educsci14101060](https://doi.org/10.3390/educsci14101060)
